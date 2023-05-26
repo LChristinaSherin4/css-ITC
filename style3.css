@@ -1,0 +1,23 @@
+.row{
+	margin: 15px;
+	padding-top: 10px;
+}
+.row:after {
+  display: table;
+  clear: both;
+}
+.column{
+	padding-top: 10px;
+	margin: 15px;
+	width:400px;
+	float:left;
+	font-family: sans-serif;
+}
+
+.div{
+	padding-top: 10px;
+	margin: 15px;
+	width:400px;
+	float:left;
+	font-family: sans-serif;
+}

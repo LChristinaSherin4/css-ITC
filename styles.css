@@ -1,0 +1,20 @@
+body{
+}
+
+table{
+	border: 1px solid;
+	border-collapse:collapse;
+
+}
+table, th{
+	background-color:royalblue;
+	font-family: Comic sans MS;
+	font-size: 10px;
+	color: white;
+}
+
+table, td{
+	background-color: lightgrey;
+	color:royalblue;
+}
+}
